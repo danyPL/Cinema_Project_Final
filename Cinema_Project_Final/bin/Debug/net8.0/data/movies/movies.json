@@ -1,0 +1,61 @@
+[
+  {
+    "id": 0,
+    "film_uuid": 5131,
+    "name": "Avatar 3",
+    "director": "James Cameron",
+    "year": 2015,
+    "rating": 9.6,
+    "genre": "Action/Adventure",
+    "image_url": "zdjecie",
+    "description": "In the end of last century, humanity is on the brink of disaster - Earth's atmosphere has been severely",
+    "ticketPrice": 28.5
+  },
+  {
+    "id": 1,
+    "film_uuid": 4721,
+    "name": "The Lord of the Rings: The Return of the King",
+    "director": "Peter Jackson",
+    "year": 2003,
+    "rating": 9.4,
+    "genre": "Fantasy/Drama",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71zJRq0eXSL._AC_SX569_.jpg",
+    "ticketPrice": 12.5
+  },
+  {
+    "id": 2,
+    "film_uuid": 4391,
+    "name": "Star Wars: The Force Awakens",
+    "director": "J.J. Abrams",
+    "year": 2015,
+    "rating": 8.6,
+    "genre": "Science Fiction/Adventure",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71cUHtRkFpL._AC_SX569_.jpg",
+    "description": "After the events of Star Wars: Episode VI – Return of the Jedi, the Resistance faces a new threat from the evil Kylo Ren and his army of stormtroopers. Meanwhile, the remains of the First Order must find a way to rebuild and learn from their past mistakes. Rey, a young scavenger on the desert planet Jakku, becomes caught in the middle of these two opposing forces, with a history that holds the key to a thrilling revelation about the Skywalker Saga.",
+    "ticketPrice": 22.5
+  },
+  {
+    "id": 3,
+    "film_uuid": 9361,
+    "name": "Guardians of the Galaxy Vol. 2",
+    "director": "James Gunn",
+    "year": 2017,
+    "rating": 8.5,
+    "genre": "Action/Adventure/Science Fiction",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81iRtJvzFML._AC_SX569_.jpg",
+    "description": "Guardians of the Galaxy, a team of superheroes including a man and a talking raccoon, travel to the far reaches of the cosmos to unite the different elements of a rock and protect the universe from its greatest threat.",
+    "ticketPrice": 20.5
+  },
+  {
+    "id": 4,
+    "film_uuid": 2712,
+    "name": "Black Panther",
+    "director": "Ryan Coogler",
+    "year": 2018,
+    "rating": 8.3,
+    "genre": "Action/Adventure/Science Fiction",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/91bNXPsIcUL._AC_SX569_.jpg",
+    "description": "After the death of his father, T'Challa returns home to the African nation of Wakanda to become the new Black Panther. In Wakanda, T'Challa must take control of a technologically advanced, secretive society. Meanwhile, his old friend and a sister who were killed by the dictator and the assassin named Erik Killmonger seek revenge on T'Challa for not taking action sooner.",
+    "ticketPrice": 24.5
+  }
+]

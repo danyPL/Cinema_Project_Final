@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "name": "Nazwa Kina",
+    "address": "Adres kina",
+    "phoneNumber": "123456789",
+    "email": "nazwakina@kino.pl",
+    "hoursOfOperation": "Od poniedziałku do piątku od 10:00 do 22",
+    "numberRooms": 4,
+    "owner": {"Id":0,"Name":"Quest","Password":"","isAdmin":false},
+    "type": "Drugi ekran",
+    "city": "Łódź",
+    "AnavibleMovies": [4721, 4391, 9361, 2712],
+    "isActive": true
+  }
+]

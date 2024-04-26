@@ -4,6 +4,3 @@ using Cinema_Project.Models;
 using Cinema_Project.Scripts.Actions;
 
 LoginPage menu = new();
-Console.WriteLine("na ta chwile wszystko jest git :)");
-
-Room_Actions t = new();

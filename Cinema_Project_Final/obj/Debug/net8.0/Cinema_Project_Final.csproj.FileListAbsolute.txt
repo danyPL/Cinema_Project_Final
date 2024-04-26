@@ -12,3 +12,4 @@ C:\Users\Daniel\source\repos\Cinema_Project_Final\Cinema_Project_Final\obj\Debug
 C:\Users\Daniel\source\repos\Cinema_Project_Final\Cinema_Project_Final\obj\Debug\net8.0\Cinema_Project_Final.pdb
 C:\Users\Daniel\source\repos\Cinema_Project_Final\Cinema_Project_Final\obj\Debug\net8.0\Cinema_Project_Final.genruntimeconfig.cache
 C:\Users\Daniel\source\repos\Cinema_Project_Final\Cinema_Project_Final\obj\Debug\net8.0\ref\Cinema_Project_Final.dll
+C:\Users\Daniel\source\repos\Cinema_Project_Final\Cinema_Project_Final\obj\Debug\net8.0\Cinema_Project_Final.sourcelink.json

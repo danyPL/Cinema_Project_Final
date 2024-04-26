@@ -1,16 +1,1 @@
-[
-  {
-    "id": 0,
-    "name": "Nazwa Kina",
-    "address": "Adres kina",
-    "phoneNumber": "123456789",
-    "email": "nazwakina@kino.pl",
-    "hoursOfOperation": "Od poniedziałku do piątku od 10:00 do 22",
-    "numberRooms": 4,
-    "owner": {"Id":0,"Name":"Quest","Password":"","isAdmin":false},
-    "type": "Drugi ekran",
-    "city": "Łódź",
-    "AnavibleMovies": [4721, 4391, 9361, 2712],
-    "isActive": true
-  }
-]
+[{"id":0,"name":"Nazwa Kina","address":"Adres kina","phoneNumber":"123456789","email":"nazwakina@kino.pl","hoursOfOperation":"Od poniedzia\u0142ku do pi\u0105tku od 10:00 do 22","numberRooms":4,"owner":{"Id":0,"Name":"Quest","Password":"","isAdmin":false},"type":"Drugi ekran","city":"\u0141\u00F3d\u017A","AnavibleMovies":[4721,4391,9361,2712],"isActive":true},{"id":2,"name":"Testowe","address":"Testowy Adres","phoneNumber":"55555555","email":"test@gmail.com","hoursOfOperation":"od 12-22 w piatki","numberRooms":3,"owner":{"Id":1,"Name":"Admin","Password":"admin","isAdmin":true},"type":"Dwa Ekrany","city":"Lodz","AnavibleMovies":[4721,4391,2712],"isActive":true}]
